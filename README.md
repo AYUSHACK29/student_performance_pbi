@@ -58,3 +58,5 @@ d. Creating DAX measures and understanding filter context.
 e. Selecting suitable visualizations for different analytical questions.
 f. Performing exploratory data analysis.
 g. Designing multi-page analytical reports.
+
+9. Snapshot - ![Dashboard Preview](https://github.com/AYUSHACK29/student_performance_pbi/blob/main/Student_Dashboard%20-%20Summary.png)
